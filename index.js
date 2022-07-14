@@ -8,12 +8,12 @@ function promedio(){
    
      if(notafinal>=7)
      {
-        alert(apellido +""+"PROMEDIO:"+""+ notafinal+""+ "APROBADO")
+        alert(apellido +" "+"PROMEDIO:"+" "+ notafinal+" "+ "APROBADO")
      }
      else if(notafinal<7)
      {
-       alert(apellido +""+"PROMEDIO:"+""+ notafinal+""+ "DESAPROBADO")
+       alert(apellido +" "+"PROMEDIO:"+" "+ notafinal+" "+ "DESAPROBADO")
      }
-   
+   sta
    }
    promedio()
